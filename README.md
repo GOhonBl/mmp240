@@ -1,1 +1,1 @@
-MMP 240 https://gohonbl.github.io/MMP240/
+MMP 240 https://gohonbl.github.io/mmp240/
